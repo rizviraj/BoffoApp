@@ -113,7 +113,7 @@ extension WifiView {
            Spacer()
         }
         .padding(.horizontal, 15)
-        //.presentationDetents([.height(200)])
-        //.presentationDragIndicator(.visible)
+        .presentationDetents([.height(200)])
+        .presentationDragIndicator(.visible)
     }
 }
