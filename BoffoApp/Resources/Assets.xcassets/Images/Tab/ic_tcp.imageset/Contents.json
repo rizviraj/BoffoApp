@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ic_tcp.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
